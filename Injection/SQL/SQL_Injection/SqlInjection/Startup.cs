@@ -12,6 +12,11 @@ namespace SqlInjection
 {
     public class Startup
     {
+        /**
+         * Saturday - 2019 05 October
+         * @brunohbrito
+         * https://www.securecoding.ir
+         */
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
